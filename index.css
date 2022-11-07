@@ -9,6 +9,9 @@
 .title{
   font-size: 45px;
 }
+#myImage{
+    width: 400px;
+}
 .main-detail-sub{
   
     display: flex;
@@ -28,5 +31,8 @@
 @media (max-width: 800px){
     .main-detail-sub{
         flex-direction: column;
+    }
+     .detail-wrapper{
+        width: 100%;
     }
 }
