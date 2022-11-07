@@ -28,7 +28,7 @@
 }
 
 
-@media (max-width: 300px){
+@media (max-width: 200px){
    #myImage{
         width:  100%;
     }
