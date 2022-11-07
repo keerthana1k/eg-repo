@@ -28,8 +28,10 @@
 }
 
 
-@media (max-width: 800px){
-   
+@media (max-width: 300px){
+   #myImage{
+        width:  100%;
+    }
     .main-detail-sub{
         flex-direction: column;
     }
